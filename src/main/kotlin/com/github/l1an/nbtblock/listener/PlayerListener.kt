@@ -37,8 +37,7 @@ object PlayerListener {
         e.isDropItems = false
         val item = buildItem(block.type)
         val itemTag = item.getItemTag()
-        val tag = fromJson(pdc.get(namespacedKey(block), PersistentDataType.STRING)!!)
-        itemTag.putAll(tag)
+        itemTag.putAll(fromJson(pdc.get(namespacedKey(block), PersistentDataType.STRING)!!))
         itemTag.saveTo(item)
         block.world.dropItemNaturally(block.location, item)
 
