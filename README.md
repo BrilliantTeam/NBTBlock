@@ -2,8 +2,8 @@
 遊戲版本：1.14+
 > 當帶有 NBT 標籤的方塊被放置後再重新挖起來時，將不會丟失其 NBT 資料
 
-Spigot: https://www.spigotmc.org/resources/<br>
-巴哈介紹: https://forum.gamer.com.tw/
+Spigot: https://www.spigotmc.org/resources/nbtblock-light-weight-lag-free-open-source-1-14-1-20-4.116049/<br>
+巴哈介紹: https://forum.gamer.com.tw/C.php?bsn=18673&snA=201362&tnum=1
 
 ---
 [Made for 輝煌伺服器.](https://discord.gg/5MHGpAFGEN "The Copyright of the entire source codes is owned by YT_iceice according to Article 10 the Copyright Law of the Republic of China.")
